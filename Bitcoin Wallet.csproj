@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Bitcoin_Wallet</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NBitcoin" Version="5.0.7"/>
+    <PackageReference Include="QBitNinja.Client" Version="1.0.3.50"/>
+    <PackageReference Include="HBitcoin" Version="0.1.8.2"/>
+  </ItemGroup>
+</Project>
