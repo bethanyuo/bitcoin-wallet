@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Beth/Desktop/MyProject/MyP.csproj": {}
+    "/Users/Beth/Desktop/MyProject/bitcoin-wallet.csproj": {}
   },
   "projects": {
-    "/Users/Beth/Desktop/MyProject/MyP.csproj": {
+    "/Users/Beth/Desktop/MyProject/bitcoin-wallet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Beth/Desktop/MyProject/MyP.csproj",
-        "projectName": "MyP",
-        "projectPath": "/Users/Beth/Desktop/MyProject/MyP.csproj",
+        "projectUniqueName": "/Users/Beth/Desktop/MyProject/bitcoin-wallet.csproj",
+        "projectName": "bitcoin-wallet",
+        "projectPath": "/Users/Beth/Desktop/MyProject/bitcoin-wallet.csproj",
         "packagesPath": "/Users/Beth/.nuget/packages/",
         "outputPath": "/Users/Beth/Desktop/MyProject/obj/",
         "projectStyle": "PackageReference",
