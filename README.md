@@ -26,5 +26,5 @@ Bitcoin TestNet
 * `Send` – used to send Bitcoins to other address. Here the needed information is the name of the .JSON file, the wallet address from which the coins are send, its private key, the transaction ID through which the coins were received beforehand, the address to which the coins are to be send, the amount to be send, the amount to be got back and finally a short message; 
 * `Exit` – kills the program. 
 
-### Module
+## Module
 MI2: Module 5: E1
